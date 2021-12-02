@@ -4,7 +4,7 @@ I created this client after how much I disliked all of them
 Always free no paywalls
 no advertizements
 no annoying launchers
-it also has support for low-end PCs With the sulphur renderer
+it also has support for low-end PCs With the sodium renderer
 
 some features include
 
